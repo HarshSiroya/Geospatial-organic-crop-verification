@@ -17,3 +17,5 @@ Satellite-based classification using vegetation indices and ML.
 ## Author
 Harsh Siroya
 # Geospatial-organic-crop-verification
+<img width="1377" height="1378" alt="JARS_12_2_026019_f001" src="https://github.com/user-attachments/assets/d0b07ae8-cddc-45a0-9684-298c5f50a57f" />
+
